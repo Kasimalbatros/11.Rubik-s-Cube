@@ -1,0 +1,10 @@
+IWe are using flex to align the text and the content at the middle of screen. 
+
+
+.container{
+display:flex;
+justify-content:center;
+align-items:center;
+width:400px;
+height:100vh;
+}

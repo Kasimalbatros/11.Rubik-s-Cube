@@ -1,0 +1,34 @@
+.container{
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr;
+  grid-template-rows:1fr 1fr 1fr;
+  height:50vh;
+  width:400px;
+}
+.one{
+ background-color: Red;
+}
+.two{
+ background-color: aquamarine;
+}
+.three{
+background-color: greenyellow;
+}
+.four{
+background-color: yellow;
+}
+.five{
+background-color: purple;
+}
+.six{
+background-color:grey;
+}
+.seven{
+background-color: brown;
+}
+.eight{
+background-color: aquamarine;
+}
+.nine{
+background-color: black;
+}
